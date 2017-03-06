@@ -1,0 +1,8 @@
+Multiscreen.MainActivity, Multiscreen;md5a3bcd35e6b0d67235c6dd1c9cf31030b.MainActivity
+Multiscreen.MainActivity, Multiscreen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a3bcd35e6b0d67235c6dd1c9cf31030b.MainActivity
+Multiscreen.MainActivity;md5a3bcd35e6b0d67235c6dd1c9cf31030b.MainActivity
+multiscreen.MainActivity;md5a3bcd35e6b0d67235c6dd1c9cf31030b.MainActivity
+Multiscreen.UserDisplayActivity, Multiscreen;md5a3bcd35e6b0d67235c6dd1c9cf31030b.UserDisplayActivity
+Multiscreen.UserDisplayActivity, Multiscreen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a3bcd35e6b0d67235c6dd1c9cf31030b.UserDisplayActivity
+Multiscreen.UserDisplayActivity;md5a3bcd35e6b0d67235c6dd1c9cf31030b.UserDisplayActivity
+multiscreen.UserDisplayActivity;md5a3bcd35e6b0d67235c6dd1c9cf31030b.UserDisplayActivity
